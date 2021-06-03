@@ -102,4 +102,21 @@ span{
     justify-content: center;
     align-items: center; 
     z-index: 2;
+}  
+.div1 {
+    float: right;
+    padding: 10px;
+    background: rgb(113, 250, 175);    
+}
+  
+.div2 {
+    float: right;
+    padding: 10px;
+    background: rgb(101, 182, 230);
+}
+  
+.div3 {
+    float: right;
+    padding: 10px;
+    background: rgb(221, 21, 138);
 }
